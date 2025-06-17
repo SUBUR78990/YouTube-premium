@@ -57,7 +57,9 @@ Pengguna dapat menonton film dari YouTube Movies & Shows tanpa gangguan iklan.
 
 # Semoga bermanfaat Untuk Kalian 
 # Ingat: Aplikasi ini Saya Berikan Gratis, jika ada yang memperjual belikan Hubungi Saya
+<script src="https://unpkg.com/whatsapp-button?module" type="module"></script>
 
+<whatsapp-button phone="+6288213415826" dialcode="44" text="hey there lets chat!" label="Start Chat" bypass></whatsapp-button>
 https://wa.me/+6288213415826
 
 ![Image](https://github.com/user-attachments/assets/29c601b3-f369-48e4-80ab-e160aeebff45)
