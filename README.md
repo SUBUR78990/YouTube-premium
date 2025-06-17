@@ -17,7 +17,14 @@ SuburDev
 # CATATAN: ADA DUA APLIKASI, YOUTUBE PREMIUM & APLIKASI SERVER 
 # PERTAMA INSTALL APLIKASI SERVER LALU APLIKASI YOUTUBE PREMIUM 
 
+# TAMPILAN APLIKASI YOUTUBE PREMIUM 
+
 ![Image](https://github.com/user-attachments/assets/ca4b5931-7165-4cd9-8a3d-9381757a0f19)
+
+# TAMPILAN APLIKASI SERVER, 
+
+![Image](https://github.com/user-attachments/assets/9c174842-7889-4a8c-98a8-c6f3147e2b3f)
+
 # APLIKASI UNTUK EXTRA FILE ZIP - PLAY STORE 
 ```
 https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver
