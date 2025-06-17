@@ -14,6 +14,9 @@ https://www.mediafire.com/file/vf7di0372lrjh34/YouTube_premium.zip/file
 SuburDev
 ```
 
+# CATATAN: ADA DUA APLIKASI, YOUTUBE PREMIUM & APLIKASI SERVER 
+# PERTAMA INSTALL APLIKASI SERVER LALU APLIKASI YOUTUBE PREMIUM 
+
 ![YouTube-Premium](https://github.com/user-attachments/assets/5e8d7fc8-4333-4173-9018-46b5ec970126)
 
 
