@@ -59,7 +59,7 @@ Pengguna dapat menonton film dari YouTube Movies & Shows tanpa gangguan iklan.
 # Ingat: Aplikasi ini Saya Berikan Gratis, jika ada yang memperjual belikan Hubungi Saya
 
 
-<whatsapp-button phone="+6288213415826" dialcode="44" text="hey there lets chat!" label="Start Chat" bypass></whatsapp-button>
+[<whatsapp-button phone="+6288213415826" dialcode="44" text="hey there lets chat!" label="Start Chat" bypass></whatsapp-button>](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 https://wa.me/+6288213415826
 
 ![Image](https://github.com/user-attachments/assets/29c601b3-f369-48e4-80ab-e160aeebff45)
