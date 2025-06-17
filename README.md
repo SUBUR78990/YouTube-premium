@@ -1,6 +1,6 @@
-*Aplikasi YouTube-premium Gratis*
 
-# YouTube Premium Free
+
+# Aplikasi YouTube Premium Free
 ![YouTube-Premium](https://github.com/user-attachments/assets/5e8d7fc8-4333-4173-9018-46b5ec970126)
 
 In the era of relentless digital advertising, we're tired of being bombarded with ads while Google profits from our personal data. The algorithm feeds on our information to serve us targeted ads, enriching itself at our expense. It's time to take back control.
@@ -8,13 +8,13 @@ In the era of relentless digital advertising, we're tired of being bombarded wit
 YouTubePremiumFree is a userscript designed to liberate you from intrusive ads and unwanted commercial interruptions on YouTube.
 
 ## Features
-- [x] AdBlocker: Eliminate all forms of advertisements, ensuring an uninterrupted viewing experience
-- [x] Premium Title
-- [x] Premium Logo
-- [ ] Download videos and music
-- [ ] Offline mode: Play downloaded videos or music anytime, offline, anywhere, right inside YouTube
-- [x] Premium resolution: Automcatically switches to HD Premium resolution, first select your resolution
-- [x] Pop-ups blocker
+- [✓] AdBlocker: Eliminate all forms of advertisements, ensuring an uninterrupted viewing experience
+- [✓] Premium Title
+- [✓] Premium Logo
+- [✓] Download videos and music
+- [✓] Offline mode: Play downloaded videos or music anytime, offline, anywhere, right inside YouTube
+- [✓] Premium resolution: Automcatically switches to HD Premium resolution, first select your resolution
+- [✓] Pop-ups blocker
 
 ## Installation
 1. **Install Tampermonkey**:
