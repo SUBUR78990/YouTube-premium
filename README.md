@@ -22,6 +22,7 @@ Pengalaman bebas iklan juga berlaku di smart TV, konsol game, dan perangkat stre
 # Streaming Film Tanpa Iklan:
 Pengguna dapat menonton film dari YouTube Movies & Shows tanpa gangguan iklan. 
 
+
 ## Buka link MediaFire Untuk Download file
 
 ```
@@ -29,7 +30,7 @@ https://www.mediafire.com/file/vf7di0372lrjh34/YouTube_premium.zip/file
 ```
 
 # Nama format file Zip 
-# Extra file Meminta password 🔑 Salin & Tempel Password di Bawah ini
+# Extra file Zip Meminta password 🔑 Salin & Tempel Password di Bawah ini
 
 ```
 SuburDev
