@@ -1,3 +1,4 @@
+<details open><summary><code>Perintah Script?</code></summary>
 ![Image](https://github.com/user-attachments/assets/39c20c44-59e5-45eb-ac8b-2d3b4a03cac3)
 # 🧾 UTAMA KAN MEMBACA & PAHAMI
 # ✅ APLIKASI YOUTUBE PREMIUM GRATIS SEUMUR HIDUP , KUSUS PENGGUNA ANDROID 👍
@@ -14,7 +15,7 @@ https://www.mediafire.com/file/vf7di0372lrjh34/YouTube_premium.zip/file
 ```
 SuburDev
 ```
-
+</details>
 # CATATAN: ADA DUA APLIKASI, YOUTUBE PREMIUM & APLIKASI SERVER 
 # PERTAMA INSTALL APLIKASI SERVER LALU APLIKASI YOUTUBE PREMIUM 
 
