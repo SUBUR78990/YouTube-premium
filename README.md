@@ -59,7 +59,7 @@ Pengguna dapat menonton film dari YouTube Movies & Shows tanpa gangguan iklan.
 # Modified by SuburDev 🇮🇩 
 
 # Semoga bermanfaat Untuk Kalian 
-# Ingat: Aplikasi ini Saya Berikan Gratis, jika ada yang memperjual belikan Hubungi Saya
+# Ingat: Aplikasi ini Saya Berikan Gratis, jika ada yang memperjual belikan Hubungi..
 
 - WhatsApp Saya <code><a href="https://wa.me/+6288213415826">klik disini</a></code>
 - Telegram Saya <code><a href="https://t.me/+6288213415826">Klik disini</a></code>
